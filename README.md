@@ -10,26 +10,26 @@ A responsive and functional clone of [Myntra](https://www.myntra.com), one of In
 
 ---
 
-## 📁 File Structure
-Myntra-Clone/
-│
-├── css/
-│ └── index.css # Stylesheet for main page
-│
-├── images/
-│ └── myntra_logo.webp # Myntra logo and other UI images
-│
-├── pages/
-│ └── bag.html # Bag page (Cart)
-│
-├── scripts/
-│ └── index.js # Handles dynamic product rendering and bag logic
-│
-├── data/
-│ └── items.js # Product data used for dynamic display
-│
-├── index.html # Main homepage file
-└── README.md # Project documentation
+## File Structure
+Myntra-Clone/<br>
+│<br>
+├── css/<br>
+│ └── index.css # Stylesheet for main page<br>
+│<br>
+├── images/<br>
+│ └── myntra_logo.webp # Myntra logo and other UI images<br>
+│<br>
+├── pages/<br>
+│ └── bag.html # Bag page (Cart)<br>
+│<br>
+├── scripts/<br>
+│ └── index.js # Handles dynamic product rendering and bag logic<br>
+│<br>
+├── data/<br>
+│ └── items.js # Product data used for dynamic display<br>
+│<br>
+├── index.html # Main homepage file<br>
+└── README.md # Project documentation<br>
 
 ---
 
